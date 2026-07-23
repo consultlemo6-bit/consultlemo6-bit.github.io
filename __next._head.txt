@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[25326,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js"],"ViewportBoundary"]
+3:I[25326,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[20676,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#050506"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Vane 钟先生｜视觉设计师作品集"}],["$","meta","1",{"name":"description","content":"Vane 钟先生的个人作品集，涵盖品牌视觉、AI 设计、平面设计、3D 视觉、活动展陈与数字体验。"}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.png"}],["$","link","3",{"rel":"icon","href":"/favicon.png"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"aiXATq1ySRHAeHyV4aorC"}
