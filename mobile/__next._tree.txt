@@ -1,3 +1,4 @@
-:HL["/_next/static/chunks/0e~u~mp6d8lkl.css","style"]
+:HL["/_next/static/chunks/0e~26mi7xi_zy.css","style"]
+:HL["/assets/anime-lineart-v1.webp","image"]
 :HL["/assets/vane-avatar.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"mobile","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"760Cy0ku4gSjUAgqr9bX-"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"mobile","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"lX4Op_rxrKCOSCWt1Hc9G"}
